@@ -28,4 +28,3 @@ int main(){
         else cout<<"."<<l;
     }
     return 0;
-}
